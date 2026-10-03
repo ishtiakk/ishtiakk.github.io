@@ -24,6 +24,7 @@ The following notes are parts of an incomplete Physics Olympiad textbook project
 Although I studied under the Bengali medium curriculum, I learned most physics concepts through English textbooks. I have tried to make the Bengali translations as clear as possible, but if any terminology seems out of place, please refer to the English version of the PDF.
 * Translational Dynamics  <a href="chapter3 bn.pdf" target="_blank"><b> (Bengali)</b></a> <a href="chapter3 en.pdf" target="_blank"><b> (English)</b></a>
 * Oscillations  <a href="chapter6 bn.pdf" target="_blank"><b> (Bengali)</b></a> <a href="chapter6 en.pdf" target="_blank"><b> (English)</b></a>
+* Central Force  <a href="chapter7 bn.pdf" target="_blank"><b> (Bengali)</b></a> <a href="chapter7 en.pdf" target="_blank"><b> (English)</b></a>
 
 ---
 > **Copyright & Distribution:** All materials linked above are open-source and provided completely free of cost for educational purposes. Commercial use, reproduction for profit, or distribution in paid coaching programs is strictly prohibited under the [CC BY-NC 4.0 License](http://creativecommons.org/licenses/by-nc/4.0/).
